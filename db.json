@@ -1,0 +1,244 @@
+{
+  "phones": [
+    {
+      "name": "Xiaomi",
+      "description": "8-Core Qualcomm Snapdragon 732G",
+      "image": "https://ostore.kg/upload/resize_cache/iblock/646/500_500_1/2Black.jpg",
+      "price": 30900,
+      "color": "Black",
+      "brand": "Xiaomi",
+      "model": "Note 10 Pro",
+      "id": 1
+    },
+    {
+      "name": "Xiaomi",
+      "description": "8-Core Qualcomm Snapdragon 765G",
+      "image": "https://ostore.kg/upload/resize_cache/iblock/bbb/500_500_1/2Blue.JPG",
+      "price": 22900,
+      "color": "Blue",
+      "brand": "Xiaomi",
+      "model": "Mi 10 Lite 5G",
+      "id": 2
+    },
+    {
+      "name": "Samsung",
+      "description": "12-Core Samsung Exynos 9 9825",
+      "image": "https://ostore.kg/upload/resize_cache/iblock/192/500_500_1/2Black.JPG",
+      "price": 77002,
+      "color": "Black",
+      "brand": "Samsung",
+      "model": "Samsung Galaxy Note 10+",
+      "id": 4
+    },
+    {
+      "name": "Samsung",
+      "description": "12-Core Samsung Exynos 9 9820",
+      "image": "https://ostore.kg/upload/resize_cache/iblock/ffc/500_500_1/1Black.PNG",
+      "price": 62990,
+      "color": "Black",
+      "brand": "Samsung",
+      "model": "Samsung Galaxy S10 Plus",
+      "id": 5
+    },
+    {
+      "name": "Samsung",
+      "description": "Light sensor, Proximity sensor, Hall sensor, Fingerprint scanner, Акселерометр, Компас, Гироскоп,",
+      "image": "https://ostore.kg/upload/resize_cache/iblock/3fe/500_500_1/1Black.PNG",
+      "price": 13990,
+      "color": "Gray",
+      "brand": "Samsung",
+      "model": "Samsung Galaxy A30",
+      "id": 6
+    },
+    {
+      "name": "Techno",
+      "description": "4-Core ARM Cortex-A7",
+      "image": "https://ostore.kg/upload/resize_cache/iblock/7d4/500_500_1/1Blue.jpg",
+      "price": 5300,
+      "color": "Black",
+      "brand": "Techno",
+      "model": "Tecno Pop 2F",
+      "id": 7
+    },
+    {
+      "name": "Techno",
+      "description": "4-Core MediaTek Helio A22",
+      "image": "https://ostore.kg/upload/resize_cache/iblock/a73/500_500_1/1Blue.jpg",
+      "price": 11900,
+      "color": "Blue",
+      "brand": "Techno",
+      "model": "Tecno Camon 12 Air",
+      "id": 8
+    },
+    {
+      "name": "iPhone",
+      "description": "Face ID, Компас, Гироскоп, Барометр, Акселерометр, Light sensor, Proximity sensor",
+      "image": "https://ostore.kg/upload/resize_cache/iblock/e71/500_500_1/1Gray.jpeg",
+      "price": 69900,
+      "color": "Space Gray",
+      "brand": "iPhone",
+      "model": "iPhone XS Max Dual Sim",
+      "id": 9
+    },
+    {
+      "name": "iPhone",
+      "description": "Apple A12 Bionic",
+      "image": "https://ostore.kg/upload/resize_cache/iblock/b45/500_500_1/2Gray.jpeg",
+      "price": 62900,
+      "color": "Gold",
+      "brand": "iPhone",
+      "model": "iPhone XS Max",
+      "id": 10
+    },
+    {
+      "name": "iPhone",
+      "description": "Датчик света, Датчик приближения, Акселерометр, Компас, Гироскоп, Барометр, Face ID",
+      "image": "https://ostore.kg/upload/resize_cache/iblock/523/500_500_1/2Blue.PNG",
+      "price": 48900,
+      "color": "Blue",
+      "brand": "iPhone",
+      "model": "iPhone XR Dual Sim",
+      "id": 11
+    },
+    {
+      "name": "iPhone",
+      "description": "Датчик света, Датчик приближения, Акселерометр, Компас, Гироскоп, Барометр, Face ID",
+      "image": "https://ostore.kg/upload/resize_cache/iblock/6b7/500_500_1/2Black.PNG",
+      "price": 47900,
+      "color": "Black",
+      "brand": "iPhone",
+      "model": "iPhone XR",
+      "id": 12
+    },
+    {
+      "name": "OnePlus",
+      "description": "Fingerprint sensor model, In-display optical fingerprint sensor, Step counter",
+      "image": "https://ostore.kg/upload/iblock/850/1Green.jpg",
+      "price": 49900,
+      "color": "Green",
+      "brand": "OnePlus",
+      "model": "OnePlus 8",
+      "id": 13
+    },
+    {
+      "name": "OnePlus",
+      "description": "Light, proximity, gyroscope, compass, fingerprint reading, face unlock",
+      "image": "https://ostore.kg/upload/resize_cache/iblock/039/500_500_1/2Black.png",
+      "price": 22900,
+      "color": "Black",
+      "brand": "OnePlus",
+      "model": "OnePlus Nord N10 5G",
+      "id": 14
+    },
+    {
+      "name": "Blackview",
+      "description": "\t8-Core Mediatek Helio P22",
+      "image": "https://ostore.kg/upload/resize_cache/iblock/0b4/500_500_1/1Black.jpg",
+      "price": 15900,
+      "color": "Black",
+      "brand": "Blackview",
+      "model": "Blackview A80 Plus",
+      "id": 15
+    },
+    {
+      "name": "Blackview",
+      "description": "Fingerprint sensor, освещенности, приближения, гироскоп, компас, считывание отпечатка пальца, разблокировка по лицу",
+      "image": "https://ostore.kg/upload/resize_cache/iblock/ee7/500_500_1/1Black.JPG",
+      "price": 21900,
+      "color": "Black",
+      "brand": "Blackview ",
+      "model": "Blackview BV5100",
+      "id": 16
+    },
+    {
+      "name": "Blackview",
+      "description": "\t8-Core MediaTek Helio A25",
+      "image": "https://ostore.kg/upload/resize_cache/iblock/d66/500_500_1/1Black.jpg",
+      "price": 16900,
+      "color": "Black",
+      "brand": "Blackview",
+      "model": "Blackview BV6300",
+      "id": 17
+    },
+    {
+      "name": "Blackview",
+      "description": "Освещенности, приближения, гироскоп, компас, барометр, считывание отпечатка пальца",
+      "image": "https://ostore.kg/upload/resize_cache/iblock/934/500_500_1/0BlackGrey.jpg",
+      "price": 55900,
+      "color": "Black",
+      "brand": "Blackview",
+      "model": "Blackview BV9900 Pro",
+      "id": 18
+    },
+    {
+      "name": "INOI",
+      "description": "Датчик приближения, датчик света, акселерометр",
+      "image": "https://ostore.kg/upload/resize_cache/iblock/d94/500_500_1/6Grey.JPG",
+      "price": 4590,
+      "color": "Grey",
+      "brand": "INOI",
+      "model": "INOI 5X",
+      "id": 19
+    },
+    {
+      "name": "INOI",
+      "description": "\tFM-приёмник; Micro-USB; Фонарик",
+      "image": "https://ostore.kg/upload/resize_cache/iblock/e21/500_500_1/1Gold.jpg",
+      "price": 1290,
+      "color": "Gold",
+      "brand": "INOI",
+      "model": "INOI 287",
+      "id": 20
+    },
+    {
+      "name": "INOI",
+      "description": "\t4-Core MediaTek MT6737",
+      "image": "https://ostore.kg/upload/resize_cache/iblock/87d/500_500_1/7Black.jpg",
+      "price": 3990,
+      "color": "Black",
+      "brand": "INOI",
+      "model": "INOI 2 2019",
+      "id": 21
+    },
+    {
+      "name": "Realme",
+      "description": "\t8-Core MediaTek Helio G70",
+      "image": "https://ostore.kg/upload/resize_cache/iblock/cdb/500_500_1/1Blue.JPG",
+      "price": 10200,
+      "color": "Blue",
+      "brand": "Realme",
+      "model": "Realme C3",
+      "id": 22
+    },
+    {
+      "name": "Realme",
+      "description": "\t8-Core MediaTek Helio G70",
+      "image": "https://ostore.kg/upload/resize_cache/iblock/8fb/500_500_1/1Grey.png",
+      "price": 13400,
+      "color": "Grey",
+      "brand": "Realme",
+      "model": "Realme C25",
+      "id": 23
+    },
+    {
+      "name": "Realme",
+      "description": "\t8-Core Qualcomm Snapdragon 720G",
+      "image": "https://ostore.kg/upload/resize_cache/iblock/7ce/500_500_1/2Black.JPG",
+      "price": 23500,
+      "color": "Black",
+      "brand": "Realme",
+      "model": "Realme 8 Pro",
+      "id": 24
+    },
+    {
+      "name": "Realme",
+      "description": "\t8-Core Unisoc T610",
+      "image": "https://ostore.kg/upload/resize_cache/iblock/bbf/500_500_1/1Black.JPG",
+      "price": 11500,
+      "color": "Black",
+      "brand": "Realme",
+      "model": "Realme C21Y",
+      "id": 25
+    }
+  ]
+}
